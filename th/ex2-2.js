@@ -1,14 +1,14 @@
 /* 
 1. Callback & Higher-Order Function มีข้อดีอย่างไร
-Answer:
+Answer: ช่วยแยกฟังก์ชั้นการทำงานให้หลากหลายขึ้น สามารถใช้ในการทดลอง Function หลายๆ case ได้ โดยเปลี่ยนแค่ callback
 
 
 2. จากการลองใช้ Callback Function ในระบบเกมและระบบแจ้งเตือน คุณคิดว่าโค้ดอ่านง่ายขึ้นหรือไม่ เพราะอะไร 
-Answer:
+Answer: อ่านง่ายเข้าใจมากขึ้น มีการ execute playerAction แล้วดูได้ว่า callback ที่ action ไหน
 
 
 3. หากต้องสอนเพื่อนให้เข้าใจ Callback & Higher-Order Function ใน 5 นาที จะอธิบายอย่างไร 
-Answer:  
+Answer:  ให้มองเป็นภาพรวมแบบข้อ 1 หรือ 2 ว่า Higher Order จะทำหน้าที่สรุปอีกทีนึงสำหรับการเลือกใช้ของแต่ละ callback พร้อมอธิบายตัวอย่าง 1&2 ให้ฟัง
 
 
 */
